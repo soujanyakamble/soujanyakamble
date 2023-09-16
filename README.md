@@ -1,3 +1,4 @@
+![logo](https://github.com/soujanyakamble/soujanyakamble/blob/main/blue%20bold%20YouTube%20intro.jpg)
 <h1 align="center">Hi 👋, I'm soujanya kamble</h1>
 <h3 align="center">A passionate frontend developer from karnataka, India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWJMLVvruFNIIfrv3GbCe7UekzCI4JywFBw&usqp=CAU"/>
