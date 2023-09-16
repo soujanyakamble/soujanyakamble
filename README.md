@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm soujanya kamble</h1>
 <h3 align="center">A passionate frontend developer from karnataka, India</h3>
-<img align="left" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fgirl-developer-developed-code-7136180-5861979.gif&tbnid=mHmklK0xd3LnrM&vet=10CHYQMyiOAWoXChMI-M7gse-ugQMVAAAAAB0AAAAAEAM..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flotties%2Fcss-coding&docid=Gfo_gLCtNGOjtM&w=359&h=355&q=coding%20gif&ved=0CHYQMyiOAWoXChMI-M7gse-ugQMVAAAAAB0AAAAAEAM"/>
+<img align="left" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtLJz0VYnIWmJT424RzyRza3zpje0hweKKZw&usqp=CAU"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soujanyakamble&label=Profile%20views&color=0e75b6&style=flat" alt="soujanyakamble" /> </p>
 
